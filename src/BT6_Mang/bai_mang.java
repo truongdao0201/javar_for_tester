@@ -15,15 +15,9 @@ public class bai_mang {
         for (int i=0; i < arrName.length; i++){
             System.out.println(arrName[i]);
         }
+
         System.out.println("--------- Mảng Trong Phương Thức ---------");
         String listName[] = {"truong", "dat", "hung", "han"}; // Dùng mảng vào phương thức
         findName(listName);
-        System.out.println("--------- Mảng Tìm Số Chẳn ---------");
-        int number[] = new int[50]; // Bài tập For và mảng in số chẳn
-        for (int i=1; i < number.length; i++){
-            if(i % 2 == 0){
-                System.out.println("Số chẳn " + i);
-            }
-        }
     }
 }
