@@ -1,6 +1,6 @@
 package BT6_Mang;
 
-public class bai_mang {
+public class Bai_Mang {
     public static void findName(String arr[]){
         String name = "han";
         for (int i=0; i < arr.length; i++){

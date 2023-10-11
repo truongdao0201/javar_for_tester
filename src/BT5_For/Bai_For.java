@@ -1,6 +1,6 @@
 package BT5_For;
 
-public class bai_for {
+public class Bai_For {
     public static void main(String[] args) {
         System.out.println("--------- Bài tập về For đơn giản --------- "); // Bài tập For cải tiến
         for(int i = 1; i <= 50; i++){
