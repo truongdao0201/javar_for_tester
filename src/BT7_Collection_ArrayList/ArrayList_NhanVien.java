@@ -8,7 +8,7 @@ public class ArrayList_NhanVien {
         ArrayList<Object> nhanvien = new ArrayList<Object>();
         nhanvien.add("Họ và tên: Dao Huy Truong");
         nhanvien.add("Ngày sinh: 2/1/1998");
-        nhanvien.add("Độ tuổi: "+ 25);
+        nhanvien.add("Độ tuổi: " + 25);
         nhanvien.add("SĐT: 0396891177");
         nhanvien.add("Quê quán: Bến Tre");
         nhanvien.add("Địa chỉ: Quận 12");

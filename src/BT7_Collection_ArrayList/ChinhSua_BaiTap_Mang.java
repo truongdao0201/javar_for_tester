@@ -8,7 +8,7 @@ public class ChinhSua_BaiTap_Mang {
         ArrayList<Integer> arrNumber2 = new ArrayList<Integer>();
         // Chèn các số nguyên 1 -> 50 vào ArrayList thông qua vòng lặp For
         int count = 50;
-        for (int i=1; i <= count; i++){
+        for (int i=0; i <= count; i++){
             arrNumber1.add(i);
         }
         // Sao chép các số chẳn tử arrNumber1 qua arrNumber2
