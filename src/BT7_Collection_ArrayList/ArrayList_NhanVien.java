@@ -10,7 +10,6 @@ public class ArrayList_NhanVien {
         nhanvien.add("Ngày sinh: 2/1/1998");
         nhanvien.add("Độ tuổi: " + 25);
         nhanvien.add("SĐT: 0396891177");
-        nhanvien.add("Quê quán: Bến Tre");
         nhanvien.add("Địa chỉ: Quận 12");
         for (Object user: nhanvien){
             System.out.println(user);
