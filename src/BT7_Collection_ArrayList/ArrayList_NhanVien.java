@@ -13,6 +13,7 @@ public class ArrayList_NhanVien {
         nhanvien.add("Quê quán: Bến Tre");
         nhanvien.add("Địa chỉ: Quận 12");
         nhanvien.add("Công Nghệ Thông Tin");
+        nhanvien.add("QC Teste");
         for (Object user: nhanvien){
             System.out.println(user);
         }
