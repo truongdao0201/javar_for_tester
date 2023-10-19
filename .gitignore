@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Khong upload folder idea
+.idea
+.out
+### Khong upload file BaiiTap_JavaForTester_DaoHuyTruong.iml
+/BaiiTap_JavaForTester_DaoHuyTruong.iml/
