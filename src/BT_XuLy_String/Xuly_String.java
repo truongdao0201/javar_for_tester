@@ -1,6 +1,6 @@
 package BT_XuLy_String;
 
-public class xuly_string {
+public class Xuly_String {
     public static void main(String[] args) {
         String chuoi = "   Các phương thức cơ bản để xử lý chuỗi trong Java bằng hàm java có sẵn  ";
         // Kiểm tra độ dài của chuỗi hàm length
